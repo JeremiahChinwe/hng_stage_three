@@ -21,7 +21,7 @@ A fully functional and responsive image gallery that showcases a collection of i
 
 ### Link
 
-- Live Site URL: [Vercel](https://hng-stage-two-virid.vercel.app/)
+- Live Site URL: [Vercel](https://hng-stage-three-phi.vercel.app/)
 
 ## How to run this project locally on your PC
 
